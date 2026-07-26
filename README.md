@@ -7,7 +7,7 @@ A modern, eye-catching immigration platform built with **Next.js + Supabase**, d
 - 🖥️ **Desktop** — installable as a desktop app (PWA)
 - 🤖📱 **Native Android & iOS** — optional, via Capacitor (same codebase)
 
-It features a **TalentAdore-style mega-menu** (Services / Solutions / Resources / Company), Supabase **email auth** (sign up / sign in), a **real-time applicant dashboard**, **live visa tracking**, and a **searchable services catalog** loaded from the database.
+It features a **Fia Europe Network-style mega-menu** (Services / Solutions / Resources / Company), Supabase **email auth** (sign up / sign in), a **real-time applicant dashboard**, **live visa tracking**, and a **searchable services catalog** loaded from the database.
 
 ---
 
